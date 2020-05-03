@@ -9,7 +9,7 @@ Kode Tutorial selft bot Line♠Mē
 Kode Tutorial :
 1. pkg install python2 -y;
 2. pkg install git -y;
-3. git clone https://github.com/Azwieen/SelfBot
+3. git clone https://github.com/Uhack/SelfBot
 4. pip2 install thrift==0.9.3
 5. pkg install rsa
 6. pip2 install requests
